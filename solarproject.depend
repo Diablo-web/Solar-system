@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1586360741 source:c:\users\lemnovo\downloads\solarproject\main.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<dos.h>
+	<math.h>
+
