@@ -78,7 +78,7 @@
                 outtextxy(308,230,"sun");
 
                 /* mercury in first orbit */
-                setcolor(LIGHTGRAY);
+                setcolor(RED);
                 setfillstyle(SOLID_FILL,LIGHTGRAY);
                 outtextxy(240,220,"mercury");
                 pieslice(x[0][pos[8]], y[0][pos[8]], 0, 360, 10);
@@ -128,7 +128,7 @@
                 /* pluto in ninth orbit   */
                 setcolor(LIGHTRED);
                 setfillstyle(SOLID_FILL, LIGHTRED);
-                pieslice(x[8][pos[0]], y[8][pos[0]], 0, 360, 15);
+                pieslice(x[8][pos[0]], y[8][pos[0]], 0, 360, 30);
                 outtextxy(560,145,"pluto");
 
 
